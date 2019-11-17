@@ -1,2 +1,3 @@
-# casl-galaxy
-Container Automation Solutions Lab (CASL) Galaxy Collection
+# Ansible Collection - casl-galaxy
+
+This is where the CASL (Container Automation Solutions Lab) Ansible Galaxy content lives
