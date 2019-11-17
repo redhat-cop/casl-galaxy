@@ -1,3 +1,3 @@
-# Ansible Collection - redhat_cop.k8s_galaxy
+# Ansible Collection - casl-galaxy
 
-Documentation for the collection.
+This is where the CASL (Container Automation Solutions Lab) Ansible Galaxy content lives
