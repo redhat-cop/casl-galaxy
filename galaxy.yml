@@ -3,10 +3,10 @@
 # The namespace of the collection. This can be a company/brand/organization or product namespace under which all
 # content lives. May only contain alphanumeric characters and underscores. Additionally namespaces cannot start with
 # underscores or numbers and cannot contain consecutive underscores
-namespace: redhat_cop
+namespace: redhat-cop
 
 # The name of the collection. Has the same character restrictions as 'namespace'
-name: casl_galaxy
+name: casl-galaxy
 
 # The version of the collection. Must be compatible with semantic versioning
 version: 0.1.0
@@ -17,7 +17,7 @@ readme: README.md
 # A list of the collection's content authors. Can be just the name or in the format 'Full Name <email> (url)
 # @nicks:irc/im.site#channel'
 authors:
-- @redhat-cop/casl
+- redhat-cop/casl
 
 
 ### OPTIONAL but strongly recommended
